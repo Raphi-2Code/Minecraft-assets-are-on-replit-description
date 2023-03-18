@@ -9,7 +9,7 @@
 
 ⋅Caves when experimental mode is turned on
 
-⋅Boat and crafting
+⋅Boat, crafting and beds
 
 ⋅saving&loading
 
