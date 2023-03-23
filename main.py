@@ -150,14 +150,14 @@ def input(key):
             ip1()
         if already_dead==False:
             if distance_xz(zombie,arrow)<=2 and abs(zombie.y-arrow.y)<=3.5:
-                tex.text="Fuck you, you nasty wixya!! And I love you mommy, but don't kill me pls!"
+                tex.text="Fuck you, you nasty wixya!"
                 zombiecounterI+=1
             if zombiecounterI>=3:
                 zombie.y=7000
             already_dead=True
         if already_drowned == False:
                 if distance_xz(drowned, arrow) <= 2 and abs(drowned.y - arrow.y) <= 3.5:
-                    tex.text = "Fuck you, you nasty wixya!! And I love you mommy, but don't kill me pls!"
+                    tex.text = "Fuck you, you nasty wixya!!"
                     DROWNEDcounterI += 1
                 if DROWNEDcounterI >= 3:
                     drowned.y = 7000
