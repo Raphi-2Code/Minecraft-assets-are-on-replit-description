@@ -1,4 +1,7 @@
 # Minecraft Clone Python+Ursina Engine
+
+very laggy, working on a new version with chunks currently
+
 ⋅Infinite Terrain Generation
 
 ⋅Villages
